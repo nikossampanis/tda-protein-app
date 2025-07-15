@@ -1,9 +1,11 @@
-
 import numpy as np
 
 def extract_coordinates(pdb_file):
     coords = []
-    for line in pdb_file:
+    # Διαβάζουμε το αρχείο ως string
+    content = pdb_file.read().decode("utf-8").splitlines()
+
+    for line in content:
         if line.startswith("ATOM"):
             try:
                 x = float(line[30:38].strip())
@@ -13,3 +15,4 @@ def extract_coordinates(pdb_file):
             except:
                 continue
     return np.array(coords)
+
