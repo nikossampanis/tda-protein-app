@@ -12,7 +12,11 @@ Developed by **Nikos Sampanis**, July 2025.
 
 🔗 Web App: [https://tda-protein-app-aeda5eexib3veubur9ca7z.streamlit.app](https://tda-protein-app-aeda5eexib3veubur9ca7z.streamlit.app)  
 📁 License: MIT  
+## 📚 Citation
 
+If you use this application or its methodology in academic work, please cite it as:
+
+📄 **DOI:** [10.5281/zenodo.15911278](https://doi.org/10.5281/zenodo.15911278)
 If you use this app or its methodology in academic work, please cite it as:
 @misc{sampanis2025proteinTDA,
   author       = {Nikos Sampanis},
