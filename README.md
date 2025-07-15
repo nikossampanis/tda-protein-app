@@ -1,3 +1,10 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-orange)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Last commit](https://img.shields.io/github/last-commit/nikossampanis/tda-protein-app)
+![Stars](https://img.shields.io/github/stars/nikossampanis/tda-protein-app?style=social)
+
+# Protein TDA App
 
 # Protein TDA App
 A Streamlit web app to compute and visualize persistent homology on protein 3D structures (PDB files).
