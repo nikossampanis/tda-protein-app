@@ -1,8 +1,6 @@
-# TDA Protein App
 
-A Streamlit web app to compute and visualize persistent homology on protein 3D structures (PDB files).
 # Protein TDA App
-
+A Streamlit web app to compute and visualize persistent homology on protein 3D structures (PDB files).
 Topological Data Analysis of protein structures using persistent homology.
 
 Developed by **Nikos Sampanis**, July 2025.
