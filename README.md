@@ -16,7 +16,7 @@ Developed by **Nikos Sampanis**, July 2025.
 
 If you use this application or its methodology in academic work, please cite it as:
 
-📄 **DOI:** [10.5281/zenodo.15911278](https://doi.org/10.5281/zenodo.15911278)
+📄 **DOI:** [10.5281/zenodo.16450068](https://doi.org/10.5281/zenodo.16450068)
 If you use this app or its methodology in academic work, please cite it as:
 @misc{sampanis2025proteinTDA,
   author       = {Nikos Sampanis},
